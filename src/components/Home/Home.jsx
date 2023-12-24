@@ -9,7 +9,6 @@ const ApiRequest = () => {
   const [fetchingData, setFetchingData] = useState(false);
   const [inputError, setInputError] = useState("");
 
-
   const parseResponseData = (doc, endpoint) => {
     const getTextContent = (selector) =>
       doc.querySelector(selector)?.textContent.replace(/\s+/g, " ").trim() ||
