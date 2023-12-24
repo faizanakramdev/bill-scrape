@@ -1,6 +1,6 @@
 {
+  "homepage": "http://fazi786fazi.github.io/bill-scrape",
   "name": "boiler-plate",
-  "homepage": "https://fazi786fazi.github.io/billScrape",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
